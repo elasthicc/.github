@@ -11,7 +11,7 @@ Welcome to the [elasthicc](https://elasthi.cc) Open Source integrations organiza
 
 ## We love open source :computer:
 
-Elasthicc would not be possible without the plethora of communities and open source projects freely avialable to anyone.
+Elasthicc would not be possible without the plethora of communities and open source projects freely available to anyone.
 As a token of gratitude we are committed in releasing our internal packages for anyone else to use, under open source licenses.
 We want to give a big shoutout to the [Pterodactyl](https://github.com/pterodactyl) community for their amazing work.
 
